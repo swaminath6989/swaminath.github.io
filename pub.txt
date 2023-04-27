@@ -1,0 +1,40 @@
+<li style="font-family:verdana;	font-size: 19px;font-style:normal; font-variant: normal;"> Small-to-large length scale transition of TMAO interaction with hydrophobic solutes
+A. Folberth, S. Bharadwaj, N. F. A. van der Vegt,
+Physical Chemistry Chemical Physics 24 (4), 2080-2087, 2022.  IF: 3.676 \\ 
+\textbf2022 PCCP HOT Articles
+<li style="font-family:verdana;	font-size: 19px;font-style:normal; font-variant: normal;"> Direct Calculation of Entropic Components in Cohesive Interaction Free Energies
+S. Bharadwaj, S. Jabes B., N. F. A.  van der Vegt,
+The Journal of Physical Chemistry B 125 (39), 11026-11035, 2021.  IF: 2.991\\
+\textbfPart of special issue Dor Ben-Amotz Festschrift
+
+<li style="font-family:verdana;	font-size: 19px;font-style:normal; font-variant: normal;">
+An interplay of excluded-volume and polymer–(co) solvent attractive interactions regulates polymer collapse in mixed solvents
+S. Bharadwaj, D. Nayar, C. Dalgicdir, N. F. A van der Vegt,
+The Journal of Chemical Physics 154 (13), 134903, 2021. IF: 3.488
+
+<li style="font-family:verdana;	font-size: 19px;font-style:normal; font-variant: normal;">
+\textbfCommunication: A cosolvent surfactant mechanism affects polymer collapse in miscible good solvents
+S. Bharadwaj, D. Nayar, C. Dalgicdir, N. F. A. van der Vegt,
+Communications Chemistry 3 (1), 1-7, 2020. IF: 6.581
+
+<li style="font-family:verdana;	font-size: 19px;font-style:normal; font-variant: normal;">
+Characterizing Polymer Hydration Shell Compressibilities with the Small-System Method
+M. Tripathy, S. Bharadwaj$^\ast$, S. Jabes B., N. F. A. van der Vegt,
+Nanomaterials 10 (8), 1460, 2020. IF: 5.076 \\
+$^\ast$Joint First Author\\
+\textbfPart of the special issue Nanoscale Thermodynamics
+</li>
+<li style="font-family:verdana;	font-size: 19px;font-style:normal; font-variant: normal;">
+Does preferential adsorption drive cononsolvency?
+S. Bharadwaj, N. F. A van der Vegt.
+Macromolecules 52 (11), 4131-4138, 2019. IF: 5.985
+</li>
+<li style="font-family:verdana;	font-size: 19px;font-style:normal; font-variant: normal;">
+Kosmotropic effect leads to LCST decrease in thermoresponsive polymer solutions
+S. Bharadwaj, P. B. Sunil Kumar, S. Komura, A. P. Deshpande,
+The Journal of Chemical Physics 148 (8), 084903, 2018. IF: 3.488
+</li>
+<li style="font-family:verdana;	font-size: 19px;font-style:normal; font-variant: normal;">
+Spherically symmetric solvent is sufficient to explain the LCST mechanism in polymer solutions
+S. Bharadwaj, P. B. Sunil Kumar, S. Komura, A. P Deshpande, Macromolecular Theory and Simulations 26 (2), 1600073, 2016.  IF: 1.53
+</li>

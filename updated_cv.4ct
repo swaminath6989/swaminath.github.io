@@ -1,0 +1,19 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{\large  Education}}{1}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-2000}{QQ2-1-2}{\large  Work Experience}}{1}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-3000}{QQ2-1-3}{\large  Research Interests}}{1}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-4000}{QQ2-1-4}{\large  Publications}}{1}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-5000}{QQ2-1-5}{\normalsize  Manuscripts under review}}{2}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-6000}{QQ2-1-6}{Conferences}}{3}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-7000}{QQ2-1-7}{\normalsize  Oral Contributions}}{3}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-8000}{QQ2-1-8}{\normalsize  Poster Contributions}}{3}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-9000}{QQ2-1-9}{Organization}}{4}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-10000}{QQ2-1-10}{Research Highlights}}{5}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-11000}{QQ2-1-11}{\textbf  {Cosolvent Effects on the Phase Behavior of Responsive Polymers:}}}{5}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-12000}{QQ2-1-12}{\textbf  {Salt Effects on the Coil-to-Globule Transitions of Thermoresponsive Polymers:}}}{5}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-13000}{QQ2-1-13}{\textbf  {Hydrophobic Length Scale Dependence of Osmolyte Effects:}}}{5}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-14000}{QQ2-1-14}{\textbf  {Solvation Shell Thermodynamics:}}}{6}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-15000}{QQ2-1-15}{Computational Skills}}{6}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-16000}{QQ2-1-16}{Teaching Experience}}{6}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-17000}{QQ2-1-17}{References}}{7}\relax 
+\par 
